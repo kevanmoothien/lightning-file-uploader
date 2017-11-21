@@ -4,4 +4,4 @@ This repository contains code for the `lightning:fileUpload` component which was
 
 Click on the button below to have it available on your Salesforce.
 
-[<img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">](https://githubsfdeploy.herokuapp.com?owner=kevanmoothien&repo=lightning-file-uploader&ref=uploader)
+[<img src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">](https://githubsfdeploy.herokuapp.com?owner=kevanmoothien&repo=lightning-file-uploader&ref=master)
